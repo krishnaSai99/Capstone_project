@@ -1,5 +1,3 @@
-# Capstone_project Insect Classification
-
 # Insect Classification Capstone Project  
 
 ## Overview  
