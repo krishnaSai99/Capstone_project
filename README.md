@@ -17,16 +17,10 @@ This project develops a **hybrid deep learning model** to classify insect specie
 2. Trains hybrid and cascade models on labeled datasets for hierarchical classification.  
 3. Evaluate performance, achieving superior accuracy compared to standalone models.  
 
-Let me know if you'd like to tweak it further!
-
 The dataset we are using is IP102: A Large-Scale Benchmark Dataset for Insect Pest Recognition - The IP102 datset contains more than 75,000 images belongs to 102 categories. To find more about the datase you can visit the below link. 
 
 Dataset Link - https://github.com/xpwu95/IP102
 
-### Quick Intro for Posting  
-
-🐞 **Insect Classification Capstone Project**  
-Tackling pest identification with a **hybrid deep learning model** integrating ResNet50 and VGG16, achieving **78% accuracy** on a dataset of 75,000+ insect images. Robust against noisy data, this project advances precision agriculture and ecological monitoring.  
 
 
 
